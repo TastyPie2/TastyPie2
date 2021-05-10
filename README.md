@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TastyPie2
-- 👀 I’m interested in WinForms, Console, Class
+- 👀 I’m interested in WinForms, Wpf, Console, Class and etc
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Basicly anything c#
 - 📫 How to reach me mathias04.hansen@outlook.com
