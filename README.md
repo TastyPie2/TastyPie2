@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TastyPie2
-- 👀 I’m interested in WinForms, Wpf, Console, Class and etc
+- 👀 I’m interested in Gamedev with unity
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Basicly anything c#
 - 📫 How to reach me tastypie2dev@gmail.com or through discord TastyPastry2#0866
 
 <!---
